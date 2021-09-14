@@ -1,0 +1,6 @@
+   let r=readLine();
+    const PI=Math.PI;
+    var area=PI*r*r;
+    var perimeter=2*PI*r;
+    console.log(area);
+    console.log(perimeter);
